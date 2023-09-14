@@ -1,0 +1,76 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Camiseta Boca Juniors Titular 23/24",
+      "precio": 35000,
+      "imagen": "../img/1-boca-titu.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Camiseta Boca Juniors Suplente 23/24",
+      "precio": 32000,
+      "imagen": "../img/2-boca-suple.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Camiseta Argentina Femenino 23/24",
+      "precio": 33000,
+      "imagen": "../img/3-argentina.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Camiseta Boca Juniors Entrenamiento 23/24",
+      "precio": 31000,
+      "imagen": "../img/4-boca-entre.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Camiseta River Plate Titular 23/24",
+      "precio": 35000,
+      "imagen": "../img/5-river-suple.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "Camiseta River Plate Entrenamiento 23/24",
+      "precio": 31000,
+      "imagen": "../img/6-river-entre.jpg"
+    },
+    {
+      "id": 7,
+      "nombre": "Camiseta River Plate Suplente 23/24",
+      "precio": 32000,
+      "imagen": "../img/7-river-titu.jpg"
+    },
+    {
+      "id": 8,
+      "nombre": "Camiseta San Lorenzo Titular 23/24",
+      "precio": 29000,
+      "imagen": "../img/8-sl-titu.jpg"
+    },
+    {
+      "id": 9,
+      "nombre": "Camiseta Racing Club Titular 23/24",
+      "precio": 27000,
+      "imagen": "../img/9-racing-titu.jpg"
+    },
+    {
+      "id": 10,
+      "nombre": "Camiseta Independiente Titular 23/24",
+      "precio": 25000,
+      "imagen": "../img/inpendientefrente.jpg"
+    },
+    {
+      "id": 11,
+      "nombre": "Camiseta San Lorenzo Suplente 23/24",
+      "precio": 26000,
+      "imagen": "../img/156100-1600-auto.jpg"
+    },
+    {
+      "id": 12,
+      "nombre": "Camiseta Independiente Suplente 23/24",
+      "precio": 22000,
+      "imagen": "../img/independientesuple.jpg"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Camisetas OnSports</title>
+    <!-- Tags de SEO -->
+    <meta
+      name="keywords"
+      content="tienda, ropa, indumentaria, catálogo, camisetas"
+    />
+    <meta name="description" content="Catálogo camisetas de fútbol." />
+    <link rel="stylesheet" href="../style.css" />
+  </head>
+
+  <body>
+    <div class="btnClose">
+      <h4>Hola usuario!</h4>
+      <button id="cerrarSesionButton">Cerrar Sesión</button>
+    </div>
+    <h1>
+      Camisetas <span class="on">On</span><span class="sports">Sports</span>
+    </h1>
+    <div id="cart">
+      <h2>Carrito de Compras</h2>
+      <div id="cart-cant" class="cart-cant">0</div>
+      <ul id="cart-items"></ul>
+      <p class="total">Total: <span id="cart-total">$0</span></p>
+    </div>
+    <div id="filters">
+      <label for="nameFilter">Filtrar por equipo:</label>
+      <select id="nameFilter">
+        <option value="all">Todos</option>
+        <option value="Boca">Boca</option>
+        <option value="River">River</option>
+        <option value="Racing">Racing</option>
+        <option value="San Lorenzo">San Lorenzo</option>
+        <option value="Independiente">Independiente</option>
+      </select>
+    </div>
+    <div id="product-list"></div>
+    <script src="../sesion.js"></script>
+    <script src="../main.js"></script>
+    <script src="../close.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  </body>
+</html>
